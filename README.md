@@ -37,12 +37,18 @@ This repository contains a Jupyter notebook for computing Dynamic Time Warping (
 
 # Project Structure
 
-### DTW/
+DTW/
+
 └── 11-WT/
+
     ├── contacts_chain_A/
+    
     │   ├── <file1>.csv
+    
     │   ├── <file2>.csv
+    
     │   
+    
     └── contacts_chain_B/
         ├── <file1>.csv
         ├── <file2>.csv
